@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on fullstack web developer and banking retail officer
+- 🔭 I’m currently working on fullstack web developer and retail banking officer
 - 🌱 I’m currently learning mobile application, .NET Core
 
 ### Contact me
