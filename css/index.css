@@ -1,5 +1,6 @@
 body {
   background-color: #f7f7f7;
+  min-width: 300px;
 }
 
 ul {
@@ -8,6 +9,14 @@ ul {
 
 li {
   list-style: none;
+}
+
+section:not(:first-child) .container {
+  opacity: 0;
+}
+
+.container {
+  min-width: 250px;
 }
 
 .timeline-head {
