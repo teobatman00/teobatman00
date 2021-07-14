@@ -1,0 +1,23 @@
+{
+  "name": "personal-info",
+  "version": "1.0.0",
+  "description": "personal-info",
+  "main": "js/index.js",
+  "dependencies": {
+    "sass": "^1.35.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "sass": "sass --watch sass:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teobatman00/teobatman00.git"
+  },
+  "author": "Minh Duong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teobatman00/teobatman00/issues"
+  },
+  "homepage": "https://github.com/teobatman00/teobatman00#readme"
+}
