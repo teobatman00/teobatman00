@@ -42,6 +42,12 @@ section:not(:first-child) .container {
   }
 }
 
+#education {
+  li {
+    list-style-type: circle;
+  }
+}
+
 #working-experience{
   .timeline-head {
     &::before {
