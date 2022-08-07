@@ -4,11 +4,11 @@
   "description": "personal-info",
   "main": "js/index.js",
   "dependencies": {
-    "sass": "^1.35.2"
+    "sass": "^1.54.3"
   },
-  "devDependencies": {},
   "scripts": {
-    "sass": "sass --watch sass:css"
+    "sass-watch": "sass --watch sass:css",
+    "sass-build": "sass sass:css"
   },
   "repository": {
     "type": "git",
