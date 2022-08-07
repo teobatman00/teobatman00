@@ -37,16 +37,16 @@ jobs:
       - name: Install node module
         run: npm install
       - name: Run sass
-        run: npm run sass-build
+        run: | 
+          npm run sass-build
+          rm -rf node_modules
       - name: Setup Pages
         uses: actions/configure-pages@v1
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
-          path: |
-            .
-            !./node_modules
+          path: '.'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@main
