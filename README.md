@@ -11,3 +11,5 @@ Here are some ideas to get you started:
 ### Contact me
 * Facebook: https://www.facebook.com/duong.binh.minh.1/
 * Mail: minhduongb97@gmail.com
+* Gitlab: https://gitlab.com/teobatman00
+* Website: https://teobatman00.github.io/Minh-Duong-Blog/
