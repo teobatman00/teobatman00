@@ -16,13 +16,8 @@ jobs:
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
 
           # Options
-          user: teobatman00
           base: header, activity, community, repositories
           config_timezone: Asia/Bangkok
           filename: metrics.classic.svg
@@ -35,13 +30,8 @@ jobs:
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
 
           # Options
-          user: teobatman00
           base: ""
           filename: metrics.plugin.notable.indepth.svg
 
@@ -58,13 +48,8 @@ jobs:
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.METRICS_TOKEN }}
-          # GITHUB_TOKEN is a special auto-generated token used for commits
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          committer_branch: github-metrics
-          committer_message: "build: update `${filename}`"
 
           # Options
-          user: teobatman00
           base: ""
           filename: metrics.plugin.achievements.compact.svg
 
