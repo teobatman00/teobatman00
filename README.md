@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/minhduongb97"><img src="https://api.daily.dev/devcards/6f228cd3352c4095b7647e0dbd4073e0.png?r=0eg" width="400" alt="Bình Minh's Dev Card"/></a>
 ## Hi there 👋
 
 My name is Duong Binh Minh (Minh Duong) and I'm from Vietnam.
