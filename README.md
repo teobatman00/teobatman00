@@ -15,13 +15,13 @@
   </a>
   <a href="mailto:minhduongb97@gmail.com" target="_blank">
     <img 
-      src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
       alt="Gmail"
     />
   </a>
   <a href="https://teobatman00.github.io/minh-duong/" target="_blank">
     <img 
-      src="	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
+      src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
       alt="Website"
     />
   </a>
