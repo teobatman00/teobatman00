@@ -4,7 +4,7 @@
   <img src="/devcard.png" width="256" align="right" alt="Bình Minh's Dev Card"/>
 </a>
 
-My name is Duong Binh Minh (Minh Duong) and I'm from Vietnam.
+My name is Duong Binh Minh (nickname is Minh Duong) and I'm from Vietnam.
 
 Here are some ideas to get you started:
 
