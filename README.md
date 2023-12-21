@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <a href="https://app.daily.dev/minhduongb97" target="_blank">
-  <img src="/devcard.png" width="256" align="right" alt="Bình Minh's Dev Card"/>
+  <img src="https://api.daily.dev/devcards/6f228cd3352c4095b7647e0dbd4073e0.png?r=4zm" width="256" align="right" alt="Bình Minh's Dev Card"/>
 </a>
 
 My name is Duong Binh Minh (nickname is Minh Duong) and I'm from Vietnam.
