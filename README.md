@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 Here is my CV: [Click here](https://teobatman00.github.io/teobatman00/)
 
+![Achievements](/metrics.plugin.achievements.compact.svg)
+
 ### Contact me
 * Facebook: https://www.facebook.com/duong.binh.minh.1/
 * Mail: minhduongb97@gmail.com
